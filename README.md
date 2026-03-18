@@ -1,6 +1,3 @@
-# Marketing-Insights-Report
-An Executive-level Power BI dashboard transforming raw marketing data into strategic business insights. Features advanced DAX KPIs, deep-dive customer segmentation, and a monochromatic professional UI designed for stakeholder decision-making.
-
 # 📊 Marketing Performance & Customer Insights Executive Dashboard
 
 ## 📝 Project Overview
@@ -60,6 +57,8 @@ The marketing department faced "data silos" and fragmented reporting. Stakeholde
 ### 🚀 Project Access
 * 📊 [Download Power BI Analysis (.pbix)](analysis.pbix?raw=true)
 * 📂 [Download Raw Dataset (CSV)](data.csv?raw=true)
+
 ---
+
 **Author:** Mercy Enujuba  
 **Role:** Data Analyst
