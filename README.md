@@ -54,11 +54,13 @@ The marketing department faced "data silos" and fragmented reporting. Stakeholde
 
 ---
 
-### 🚀 Project Access
-* 📊 [Download Power BI Analysis (.pbix)](analysis.pbix?raw=true)
-* 📂 [Download Raw Dataset (CSV)](https://github.com/user-attachments/files/26095371/Project-3-Dataset.xlsx)
+  ### 📂 Project Resources
+* [View Analysis Files](https://github.com/Mhercie4/Marketing-Insights-Report/tree/main)
+* [View Raw Dataset](https://github.com/Mhercie4/Marketing-Insights-Report/blob/main/data.csv)
 
+* 📂 [Download Raw Dataset (CSV)](https://github.com/user-attachments/files/26095371/Project-3-Dataset.xlsx)
 ---
+
 
 **Author:** Mercy Enujuba  
 **Role:** Data Analyst
