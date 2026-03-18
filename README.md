@@ -56,7 +56,7 @@ The marketing department faced "data silos" and fragmented reporting. Stakeholde
 
 ### 🚀 Project Access
 * 📊 [Download Power BI Analysis (.pbix)](analysis.pbix?raw=true)
-* 📂 [Download Raw Dataset (CSV)](data.csv?raw=true)
+* 📂 [Download Raw Dataset (CSV)](https://github.com/user-attachments/files/26095371/Project-3-Dataset.xlsx)
 
 ---
 
