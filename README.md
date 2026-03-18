@@ -4,9 +4,13 @@ An Executive-level Power BI dashboard transforming raw marketing data into strat
 # 📊 Marketing Performance & Customer Insights Executive Dashboard
 
 ## 📝 Project Overview
-This project transforms a complex marketing dataset of 2,240 customers into a streamlined, **Executive-Ready Business Intelligence tool**. Using Power BI, I developed a monochromatic dashboard that allows stakeholders to identify revenue drivers, evaluate campaign success, and segment customers with precision.
+This project transforms a complex marketing dataset of 2,240 customers into a streamlined, **Executive-Ready Business Intelligence tool**. Using Power BI, I developed 
+a monochromatic dashboard that allows stakeholders to identify revenue drivers, evaluate campaign success, and segment customers with precision.
 
-![Dashboard Overview](new%20int%20dash.png)
+---
+
+## 🖥️ Dashboard Preview
+![Marketing Analytics Dashboard](dashboard.png)
 
 ---
 
@@ -53,10 +57,10 @@ The marketing department faced "data silos" and fragmented reporting. Stakeholde
 
 ---
 
-## 📂 Repository Structure
-* `Marketing_Performance_Report.pbix`: The full Power BI report.
-* `/Data`: The raw dataset used for the analysis.
-* `new int dash.png`: High-resolution screenshot of the final dashboard.
+### 🚀 Project Access
+* 🌐 [View Live Documentation](https://mhercie4.github.io/Marketing-Campaign-Analysis/)
+* 📊 [Download Power BI Analysis (.pbix)](analysis.pbix)
+* 📂 [Download Raw Dataset (CSV)](data.csv)
 
 ---
 **Author:** Mercy Enujuba  
